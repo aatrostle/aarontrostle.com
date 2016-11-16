@@ -8,5 +8,11 @@
   },
   "author": "Aaron Trostle",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "next": "^1.1.1"
+  },
+  "scripts": {
+    "dev": "next"
+  }
 }
